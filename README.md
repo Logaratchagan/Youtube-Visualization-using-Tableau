@@ -4,7 +4,7 @@
 
 ### I have taken Top 1000 Youtubers Data and Visualized in the form of graphs. So that anyone can easily understand it, in a better way. Visualized in different kinds of charts like Pie chart, Bar chart, Donut chart, Treemaps, Line chart,Text, Scatter chart, Bubble chart. Added filters in the charts for filtering the values according to the option that we are selecting and this will reflect in the graphs so that it will be dynamic and looks cool. 
 
-### I have used filters to display only top 15 youtubers in the chart. Also created a Dashboards for combining multiple views to show them in a single frame,so that it will help us to view all the views. Dashboards are interactive because I have added filters to it so that according to the values we are selecting in the bar graph, it will reflect in the entire dashboard.
+### I have used filters to display only top 15 youtubers in the chart. Created Dashboards for combining multiple views to show them in a single frame,so that it will help us to view all the views. Dashboards are interactive because I have added filters to it so that according to the values we are selecting in the bar graph, it will reflect in the entire dashboard.
 
 ### Created a story using multiple views and also dashboards to show the complete view.
 
