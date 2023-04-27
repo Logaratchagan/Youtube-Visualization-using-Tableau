@@ -1,10 +1,10 @@
 # Youtube-Visualization-using-Tableau
 
-### I have taken this dataset from the Kaggle, in this dataset it consists of informations like (rank, Youtuber, Subscribers, Video views, Video count, Category,	Channel Started) these are the fields present in the dataset by using this we can implement some calculations in it then we can visualize.
+### I have taken this dataset from Kaggle. In this dataset it consists of informations like (rank, Youtuber, Subscribers, Video views, Video count, Category, Started) by using this we can implement some calculations and we can visualize the same.
 
-### I have taken a Top 1000 Youtubers Data and Visualized in the form of graphs. So that anyone can easily able to understand it in better way. Visualized in different kinds of charts like Pie chart, Bar chart, Donut chart, Treemaps, Line chart,Text, Scatter chart, Bubble chart. Added filters in the charts for filtering the values according to the option that we are selecting will reflect in the graphs so that it will dynamic and looks cool. 
+### I have taken Top 1000 Youtubers Data and Visualized in the form of graphs. So that anyone can easily understand it, in a better way. Visualized in different kinds of charts like Pie chart, Bar chart, Donut chart, Treemaps, Line chart,Text, Scatter chart, Bubble chart. Added filters in the charts for filtering the values according to the option that we are selecting and this will reflect in the graphs so that it will be dynamic and looks cool. 
 
-### I have used filters to display only top 15 youtubers in the chart. Also created a Dashboard for combining multiple views to show them in a single frame,so that it will help us to view all the views. Dashboard are interactive because I have added filters to it so that according to the values we are selecting in the bar graph it will reflect in the entire dashboard.
+### I have used filters to display only top 15 youtubers in the chart. Also created a Dashboards for combining multiple views to show them in a single frame,so that it will help us to view all the views. Dashboards are interactive because I have added filters to it so that according to the values we are selecting in the bar graph, it will reflect in the entire dashboard.
 
 ### Created a story using multiple views and also dashboards to show the complete view.
 
